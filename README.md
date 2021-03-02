@@ -1,16 +1,15 @@
-### Hi there 👋
+[![sevenc-nanashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenc-nanashi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+どもども、[SevenBot](https://sevenbot.jp)ってBotつくってる中学生プログラマーです。  
+結構色々作ってるので見てね(((  
+# discord.pyのEmbedを使いやすくした奴
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=sembed)](https://github.com/sevenc-nanashi/sembed)
 
-<!--
-**sevenc-nanashi/sevenc-nanashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [google_trans_new](https://github.com/lushan88a/google_trans_new)のAsync版
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=async_google_trans_new)](https://github.com/sevenc-nanashi/async_google_trans_new)
 
-Here are some ideas to get you started:
+# 謎の暗号化ツール
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=scrypter)](https://github.com/sevenc-nanashi/scrypter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 突然の死作成ツール
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=double-alt-death)](https://github.com/sevenc-nanashi/double-alt-death)
