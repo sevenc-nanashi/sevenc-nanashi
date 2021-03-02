@@ -1,5 +1,5 @@
 [![sevenc-nanashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenc-nanashi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 どもども、[SevenBot](https://sevenbot.jp)ってBotつくってる中学生プログラマーです。  
 結構色々作ってるので見てね(((  
 # discord.pyのEmbedを使いやすくした奴
