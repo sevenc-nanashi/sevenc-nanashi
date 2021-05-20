@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=sembed&title_color=7289da&icon_color=7289da)](https://github.com/sevenc-nanashi/sembed)
 
 # [google_trans_new](https://github.com/lushan88a/google_trans_new)のAsync版
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=async-google-trans0new&title_color=7289da&icon_color=7289da)](https://github.com/sevenc-nanashi/async-google-trans-new)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=async-google-trans-new&title_color=7289da&icon_color=7289da)](https://github.com/sevenc-nanashi/async-google-trans-new)
 
 # 謎の暗号化ツール
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenc-nanashi&repo=scrypter&title_color=7289da&icon_color=7289da)](https://github.com/sevenc-nanashi/scrypter)
