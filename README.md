@@ -10,7 +10,7 @@
 [![Trophys](https://github-profile-trophy.vercel.app/?username=sevenc-nanashi&theme=flat&column=3)](https://github.com/ryo-ma/github-profile-trophy)
   
 好きなものを、好きなもので、好きなように作る。  
-Make things I like, with things I like, as I like.
+Make things I like, with things I like, as I like to do.
 
 # SevenBot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SevenBot-dev&repo=SevenBot&title_color=48b0d5&icon_color=48b0d5)](https://github.com/SevenBot-dev/SevenBot)
