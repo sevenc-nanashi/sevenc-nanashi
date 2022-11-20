@@ -11,9 +11,3 @@
   
 好きなものを、好きなもので、好きなように作る。  
 Make things I like, with things I like, as I like to do.
-
-# SevenBot
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SevenBot-dev&repo=SevenBot&title_color=48b0d5&icon_color=48b0d5)](https://github.com/SevenBot-dev/SevenBot)
-
-# discorb
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discorb-lib&repo=discorb&title_color=48b0d5&icon_color=48b0d5)](https://github.com/discorb-lib/discorb)
