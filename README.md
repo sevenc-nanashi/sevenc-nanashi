@@ -1,6 +1,3 @@
-> [!NOTE]
-> I caught a flu, so I can't write code rn
-
 [![Buy Me A Coffee!](https://shields.io/badge/%2fsevenc7c-5f7fff?logo=buymeacoffee&logoColor=fff)](https://www.buymeacoffee.com/sevenc7c)
 [![Misskey.io](https://img.shields.io/badge/dynamic/json?color=8ab942&label=%F0%9D%97%A0%F0%9D%97%B6%20@sevenc7c@misskey.io&query=%24.totalItems&url=https%3A%2F%2Fmisskey.io%2Fusers%2F93zi7l88ty%2Ffollowers)](https://misskey.io/@sevenc7c)
 [![Misskey.systems](https://img.shields.io/badge/dynamic/json?color=8ab942&label=%F0%9D%97%A0%F0%9D%97%B6%20@sevenc_nanashi@misskey.systems&query=%24.totalItems&url=https%3A%2F%2Fmisskey.systems%2Fusers%2F9c8fgzgryd%2Ffollowers)](https://misskey.systems/@sevenc_nanashi)
