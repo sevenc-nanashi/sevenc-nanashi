@@ -1,5 +1,3 @@
-![](./dist.gif)
-
 [![Buy Me A Coffee!](https://shields.io/badge/%2fsevenc7c-5f7fff?logo=buymeacoffee&logoColor=fff)](https://www.buymeacoffee.com/sevenc7c)
 [![Voskey](https://img.shields.io/badge/dynamic/json?color=8ab942&label=%F0%9D%97%A0%F0%9D%97%B6%20@sevenc_nanashi@voskey.icalo.net&query=%24.totalItems&url=https%3A%2F%2Fvoskey.icalo.net%2Fusers%2F9d8sfcv0qj%2Ffollowers)](https://voskey.icalo.net/@sevenc_nanashi)
 [![Misskey.systems](https://img.shields.io/badge/dynamic/json?color=8ab942&label=%F0%9D%97%A0%F0%9D%97%B6%20@sevenc_nanashi@misskey.systems&query=%24.totalItems&url=https%3A%2F%2Fmisskey.systems%2Fusers%2F9c8fgzgryd%2Ffollowers)](https://misskey.systems/@sevenc_nanashi)
