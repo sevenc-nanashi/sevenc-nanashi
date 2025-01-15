@@ -4,7 +4,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCv9Wgrqn0ovYhUggSSm5Qtg?style=flat&color=f00&label=@sevenc-nanashi&logo=youtube&logoColor=fff)](https://youtube.com/channel/UCv9Wgrqn0ovYhUggSSm5Qtg)
 
 [![sevenc-nanashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenc-nanashi&show_icons=true&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats-n8jz6nk9p-sevencnanashis-projects.vercel.app/?user=sevenc-nanashi&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5&)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-tau-one.vercel.app/?user=sevenc-nanashi&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5&2)](https://git.io/streak-stats)
 <!--[![sevenc-nanashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenc-nanashi&show_icons=true&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
