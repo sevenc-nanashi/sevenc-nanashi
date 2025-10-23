@@ -8,7 +8,7 @@
 <!--[![sevenc-nanashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenc-nanashi&show_icons=true&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact&title_color=48b0d5&icon_color=48b0d5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenc-nanashi&layout=compact&title_color=48b0d5&icon_color=48b0d5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Trophys](https://github-profile-trophy.vercel.app/?username=sevenc-nanashi&theme=flat&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![Trophys](https://github-profile-trophy.vercel.app/?username=sevenc-nanashi&theme=flat&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
   
 「ものを創るもの」を造るのが好き。  
 I like making thing that creates another thing.
