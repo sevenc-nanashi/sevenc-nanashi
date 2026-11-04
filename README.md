@@ -1,4 +1,5 @@
 [![sevenc7c.com](https://shields.io/badge/sevenc7c.com-48b0d5)](https://sevenc7c.com)
+[![Heartbeat](https://nanatsukis-heartbeat-right-now.sevenc7c.workers.dev/)](https://github.com/sevenc-nanashi/nanatsukis_heartbeat_right_now)
 [![Voskey](https://img.shields.io/badge/dynamic/json?color=8ab942&logo=misskey&logoColor=fff&label=@sevenc_nanashi@voskey.icalo.net&query=%24.totalItems&url=https%3A%2F%2Fvoskey.icalo.net%2Fusers%2F9d8sfcv0qj%2Ffollowers)](https://voskey.icalo.net/@sevenc_nanashi)
 [![MNoNamer](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMNoNamer)](https://atcoder.jp/users/MNoNamer)
 [![Chunithm](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.chunisupport.net%2Fbadges%2Fusers%2Fsevenc7c%2Frating&label=Chunithm)](https://chunisupport.net/users/sevenc7c)
